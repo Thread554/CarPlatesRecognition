@@ -11,4 +11,4 @@
    - Двунаправленный LSTM
    - Классификатор
 
-![Image alt](https://github.com/Thread554/CarPlatesRecognition/image.png)
+![Image alt](https://github.com/Thread554/CarPlatesRecognition/blob/master/image.png)
